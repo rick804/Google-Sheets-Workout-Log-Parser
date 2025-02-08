@@ -1,1 +1,1 @@
-# Google-spreadsheets-Workout-log-parser
+# Google-Sheets-Workout-Log-Parser
