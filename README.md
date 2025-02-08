@@ -17,9 +17,9 @@ Be able to log every part of your workout, date, type of exercise day, exercise 
 ## HOW TO USE
 
 Create 3 columns
--DAY in column A
--TYPE in column B
--EXERCISES in column C
+- DAY in column A
+TYPE in column B
+-  EXERCISES in column C
 
 -In Day put the date
 -In elements under TYPE put the type of workout (Legs, Pull, Chest (also use acronyms to input exercises quickly (i.e c automatically inputs Chest))
